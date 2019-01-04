@@ -1,0 +1,2 @@
+## Antes de utilizar
+Vá no php.ini e altere alguns valores para ser aceito mais arquivos, por padrão max_file_uploads está setando para 20, minha recomendações em testes que fiz é o máximo de 500 uploads para funcionar ok.
